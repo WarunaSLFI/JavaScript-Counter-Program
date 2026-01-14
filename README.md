@@ -4,4 +4,4 @@ This is a simple JavaScript counter with Increment, Decrement, and Reset buttons
 
 ## Screenshot
 
-![Counter App](counter.png)
+![Counter App](Counter.png)
