@@ -9,9 +9,7 @@ It includes a clean UI, smooth animations, and prevents the counter from going b
 
 ## 🚀 Live Demo
 
-👉 https://WarunaSLFI.github.io/JavaScript-Counter-Program/
-
-> Replace `REPO_NAME` with your real GitHub repository name after you enable GitHub Pages.
+👉 https://warunaslfi.github.io/JavaScript-Counter-Program/
 
 ## 🛠 Built With
 
